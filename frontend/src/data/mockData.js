@@ -7,8 +7,8 @@ export const developerProfile = {
   location: "Manaus, AM",
   bio: "Desenvolvedor Full Stack em formação apaixonado por criar soluções inovadoras que transformam ideias em realidade digital. Amo desenvolver aplicações web robustas e escaláveis, sempre focando na experiência do usuário e na qualidade do código.",
     socialLinks: {
-    github: "https://github.com/Alan_Nicolas",
-    linkedin: "www.linkedin.com/in/alan-nicolas-35639a1b7",
+    github: "https://github.com/Alan-Nicolas",
+    linkedin: "https://www.linkedin.com/in/alan-nicolas-35639a1b7/",
     email: "mailto:alannicolasctt7@outlook"
   }
   
