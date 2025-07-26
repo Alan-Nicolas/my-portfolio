@@ -34,7 +34,7 @@ const Projects = () => {
     }
   }, [filter]);
 
-  const categories = ['all', 'Full Stack', 'Backend', 'Data Visualization'];
+  const categories = ['all'];
 
   const ProjectCard = ({ project, index }) => (
     <div

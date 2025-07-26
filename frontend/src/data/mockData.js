@@ -82,7 +82,7 @@ export const projects = [
     title: "Mais em breve outros projetos",
     description: "Estou estudando para projetar mais experiencias com IA, uma interface muito mais moderna, aplicações mais seguras com JWT e revolucionaria",
     image: "https://symbl-cdn.com/i/webp/dd/8b7f393a72b7705da89b5b87a1d340.webp",
-    tech: ["Agente de IA, JWT, Java, Angular, Spring Boot,"],
+    tech: ["Agente de IA", "JWT", "Java", "Angular", "Spring Boot"],
     github: null,
     demo: null,
     category: null
